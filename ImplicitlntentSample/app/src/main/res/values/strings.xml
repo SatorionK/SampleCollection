@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">初歩的なGPSアプリ</string>
+    <string name="serchbu">検索</string>
+    <string name="genzai">現在地</string>
+    <string name="ido">緯度:</string>
+    <string name="keido">軽度:</string>
+    <string name="showmap">地図表示</string>
+</resources>
